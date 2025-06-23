@@ -19,4 +19,15 @@ The calculator uses static methods for operations and accepts user i/p via the c
 
 -> Prerequisites:
 Java Development Kit (JDK) installed (version 8 or higher).
-A command-line terminal
+A command-line terminal.
+
+
+> Clone the repo:
+
+cd Java-Console-Calculator
+
+> Compile the files:
+javac Calculator.java CalculatorMethods.java
+
+> Run program:
+java Calculator
