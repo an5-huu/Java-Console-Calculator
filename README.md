@@ -23,7 +23,7 @@ A command-line terminal.
 
 
 > Clone the repo:
-
+https://github.com/an5-huu/Java-Console-Calculator.git
 cd Java-Console-Calculator
 
 > Compile the files:
